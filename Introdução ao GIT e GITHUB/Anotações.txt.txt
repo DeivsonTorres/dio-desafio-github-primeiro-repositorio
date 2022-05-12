@@ -1,0 +1,2 @@
+Link para baixar o GIT:https://git-scm.com/
+Link para estudar sobre MD: https://www.markdownguide.org/
